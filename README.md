@@ -1,0 +1,2 @@
+# Shell.ai
+hackerearth
